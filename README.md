@@ -11,7 +11,7 @@ https://www.dropbox.com/s/3gf4zz02okphjhb/data.zip?dl=0
 
 And the flow of the data preparation process is shown as the following figure.
 
-
+![](images/README.png)
 
 Bibliographic information:
 @inproceedings{zhang2018towards,
