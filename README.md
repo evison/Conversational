@@ -1,6 +1,6 @@
 # Conversational
 
-Instructions on preparing conversation data for the code:
+## Instructions on preparing conversation data for the code
 
 The package already includes processed converseation data to run the model. It includes four sub-categories from the Amazon dataset. If you are not using the model for new conversation data, you can just play with the code based on the four processed conversation datasets.
 
@@ -13,7 +13,8 @@ And the flow of the data preparation process is shown as the following figure.
 
 ![](images/README.png)
 
-Bibliographic information:<br/>
+## Bibliographic information:
+
 @inproceedings{zhang2018towards,<br/>
   title={Towards conversational search and recommendation: System ask, user respond},<br/>
   author={Zhang, Yongfeng and Chen, Xu and Ai, Qingyao and Yang, Liu and Croft, W Bruce},<br/>
