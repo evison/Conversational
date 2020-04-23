@@ -15,6 +15,7 @@ And the flow of the data preparation process is shown as the following figure.
 
 ## Bibliographic information:
 
+<pre>
 @inproceedings{zhang2018towards,<br/>
   title={Towards conversational search and recommendation: System ask, user respond},<br/>
   author={Zhang, Yongfeng and Chen, Xu and Ai, Qingyao and Yang, Liu and Croft, W Bruce},<br/>
@@ -23,4 +24,4 @@ And the flow of the data preparation process is shown as the following figure.
   year={2018},<br/>
   organization={ACM}<br/>
 }
-
+</pre>
