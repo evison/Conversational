@@ -2,7 +2,7 @@
 
 ## Instructions on preparing conversation data for model training
 
-The package already includes processed converseation data to run the model. It includes four sub-categories from the Amazon dataset. If you are not using the model for new conversation data, you can just play with the code based on the four processed conversation datasets.
+The package already includes processed converseation data to train and run the model. It includes four sub-categories from the Amazon dataset. If you are not using the model for new conversation data, you can just play with the code based on the four processed conversation datasets.
 
 If you want to build your own conversation data — e.g., for other sub-categories of the Amazon dataset, or even datasets for other conversation scenarios — we have prepared the following package to achieve this goal, together with a figure to show the flow of the process.
 
