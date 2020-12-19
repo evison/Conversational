@@ -26,7 +26,7 @@ In general, it includes the follows steps:
 
 ## Bibliographic information:
 
-<pre>
+```
 @inproceedings{zhang2018towards,
   title={Towards conversational search and recommendation: System ask, user respond},
   author={Zhang, Yongfeng and Chen, Xu and Ai, Qingyao and Yang, Liu and Croft, W Bruce},
@@ -35,4 +35,4 @@ In general, it includes the follows steps:
   year={2018},
   organization={ACM}
 }
-</pre>
+```
