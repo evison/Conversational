@@ -9,6 +9,9 @@ If you want to build your own conversation data — e.g., for other sub-categori
 The package for conversation data preparation can be downloaded in this URL:
 https://www.dropbox.com/s/3gf4zz02okphjhb/data.zip?dl=0
 
+This follwoing repository provides an instruction about how to use the Sentires phrase-level sentiment analysis toolkit:
+https://github.com/evison/Sentires
+
 And the flow of the data preparation process is shown as the following figure.
 
 In general, it includes the follows steps:
